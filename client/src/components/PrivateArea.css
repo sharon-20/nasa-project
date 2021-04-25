@@ -1,0 +1,16 @@
+.close{
+    width: 33px;
+    margin-top: -15px;
+
+}
+button.btn.btn-secondary{
+    color: #fff;
+    background-color: #063767;
+    border-color: #ff3100
+}
+.modal-header {
+    border-bottom: 3px solid #125fab;
+}
+input{
+    border: 2px solid #125fab;
+}
